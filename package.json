@@ -1,0 +1,14 @@
+{
+  "name": "m6s6v1-node-arguments-yargs",
+  "version": "1.0.0",
+  "description": "Cuando creamos aplicaciones de línea de comandos en Node.js, muchas veces necesitamos que el usuario proporcione parámetros o \"argumentos\" mientras ejecuta nuestro script. Un ejemplo simple podría ser un comando que tome un archivo y lo procese, o uno que envíe una solicitud a una API con ciertos parámetros.",
+  "main": "convertFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
